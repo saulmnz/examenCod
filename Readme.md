@@ -45,21 +45,21 @@ Con cada apartado realiza un commit diferente
 
 recorrerTablero =
 
-`/**`
-`* Función = Recorrerá el tablero e indicará la casilla ocupada por una pieza, indicará si es negra o blanca.`
-`* @param = int [][] tablero referenciarle en memoria el parámetro del tablero (array) bidimensional`
-`* @return = Nos devuelva un nuevo array hecho del contador de fichas negras y blanca = return new int [] {contadorNegras, ContadorBlancas}`
-`*/`
+/**
+* Función = Recorrerá el tablero e indicará la casilla ocupada por una pieza, indicará si es negra o blanca.
+* @param = int [][] tablero referenciarle en memoria el parámetro del tablero (array) bidimensional
+* @return = Nos devuelva un nuevo array hecho del contador de fichas negras y blanca = return new int [] {contadorNegras, ContadorBlancas}
+*/
 
 imprimirTablero = 
 
-`/**`
-`* Función que Imprime el estado del tablero para consultarlo`
-`* @param = int [][] tablero referenciarle en memoria el parámetro del tablero (array) bidimensional`
-
+/**
+* Función que Imprime el estado del tablero para consultarlo
+* @param = int [][] tablero referenciarle en memoria el parámetro del tablero (array) bidimensional
+*/
 mostrarResultado = 
 
-`/**`
-`* Función que muestra el resultado de el conteo de las piezas tanto negras como blancas, compara si contador de piezas negra o blanca es mayor o menor una que la otra y entonces imprime que color de piezas va ganando ( De ser el mismo numero de piezas entonces la función devoltará que van empatados )`
-`* @param = int [][] tablero referenciarle en memoria el parámetro del tablero (array) bidimensional`
-`*/`
+/**
+* Función que muestra el resultado de el conteo de las piezas tanto negras como blancas, compara si contador de piezas negra o blanca es mayor o menor una que la otra y entonces imprime que color de piezas va ganando ( De ser el mismo numero de piezas entonces la función devoltará que van empatados )
+* @param = int [][] tablero referenciarle en memoria el parámetro del tablero (array) bidimensional
+*/
