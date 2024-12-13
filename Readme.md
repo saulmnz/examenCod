@@ -1,12 +1,6 @@
-# Examen 1ª Evaluación
+# Examen 1ª Evaluación :rocket: :rocket:
 
 ---
-
-Explica a continación cada apartado del examen
-
-Con cada apartado realiza un commit diferente
-
-
 
 # Imágenes Ordinograma Apartado 1 =
 
