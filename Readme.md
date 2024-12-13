@@ -16,18 +16,19 @@ Con cada apartado realiza un commit diferente
 ![Primera Imagen Ordinograma](./foto3.png)
 
 # Como es el tablero? Apartado 2 =
-
-`int [] [] tablero = {0, 1, 0, 1, 0, 1, 0, 1},`
-`{1, 0, 1, 0, 1, 0, 1, 0},`
-`{0, 1, 0, 1, 0, 1, 0, 1},`
-`{0, 0, 0, 0, 0, 0, 0, 0},`
-`{0, 0, 0, 0, 0, 0, 0, 0},`
-`{2, 0, 2, 0, 2, 0, 2, 0},`
-`{0, 2, 0, 2, 0, 2, 0, 2}, `
-`{2, 0, 2, 0, 2, 0, 2, 0};`
+```java
+int [] [] tablero = {0, 1, 0, 1, 0, 1, 0, 1},
+{1, 0, 1, 0, 1, 0, 1, 0},
+{0, 1, 0, 1, 0, 1, 0, 1},
+{0, 0, 0, 0, 0, 0, 0, 0},
+{0, 0, 0, 0, 0, 0, 0, 0},
+{2, 0, 2, 0, 2, 0, 2, 0},
+{0, 2, 0, 2, 0, 2, 0, 2}, 
+{2, 0, 2, 0, 2, 0, 2, 0};
 
 `tablero [i][j] = 1 (Fichas Negras)`
 `tablero [i][j] = 2 (Fichas Blancas)` 
+```
 
 # Enumera funciones Apartado 3 =
 
@@ -42,6 +43,7 @@ Con cada apartado realiza un commit diferente
     Parámetros = Parámetros = (int [][] tablero) ("Hay que referenciarle en memoria el parámetro que hace referencia al tablero (array) bidimensional")
 
 # Javadoc Apartado 4 =
+```java
 
 **recorrerTablero =**
 
@@ -64,3 +66,4 @@ Con cada apartado realiza un commit diferente
 *Función que muestra el resultado de el conteo de las piezas tanto negras como blancas, compara si contador de piezas negra o blanca es mayor o menor una que la otra y entonces imprime que color de piezas va ganando ( De ser el mismo numero de piezas entonces la función devoltará que van empatados )  
 *@param = int [][] tablero referenciarle en memoria el parámetro del tablero (array) bidimensional  
 */
+```
