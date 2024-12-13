@@ -54,7 +54,7 @@ Con cada apartado realiza un commit diferente
 **imprimirTablero =** 
 
 /**  
-*Función que Imprime el estado del tablero para consultarlo
+*Función que Imprime el estado del tablero para consultarlo  
 *@param = int [][] tablero referenciarle en memoria el parámetro del tablero (array) bidimensional  
 */
 
